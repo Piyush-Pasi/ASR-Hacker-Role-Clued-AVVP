@@ -31,3 +31,10 @@ Comments are also placed in the notebook.
 
 ## Results are shown in slide
 slide [link](https://docs.google.com/presentation/d/1kGu5utwpC9OzkTf1_3BagzvQ_nQC8j8rvd8GuME_C4o/edit?usp=sharing)
+
+## Team J.A.R.V.I.S(APS)
+213050059 Arun Babu P T 
+
+213050069 Pasi Piyush Singh Umesh Chandra
+
+21Q050002 Sai Teja Kuchi
