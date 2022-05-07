@@ -28,3 +28,6 @@ Replace files in BASE with the files in MA_variant directory
 Notebooks have the command to add audio effect, extractor features, and train models, please replace path wherever needed.
 
 Comments are also placed in the notebook.
+
+## Results are shown in slide
+slide [link](https://docs.google.com/presentation/d/1kGu5utwpC9OzkTf1_3BagzvQ_nQC8j8rvd8GuME_C4o/edit?usp=sharing)
