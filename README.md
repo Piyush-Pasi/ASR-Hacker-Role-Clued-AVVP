@@ -25,7 +25,7 @@ Cross-modal attention from visual modality is removed
 
 Replace files in BASE with the files in MA_variant directory
 
-Notebooks have the command to add audio effect, extractor features, and train models, please replace path wherever needed.
+VS_base_ASR_Project Notebook has commands to add audio effect, extractor features, and train models, please replace path wherever needed.
 
 Comments are also placed in the notebook.
 
