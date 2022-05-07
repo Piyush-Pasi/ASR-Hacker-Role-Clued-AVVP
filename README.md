@@ -1,4 +1,4 @@
-## Examining repercussions of Audio-Effects in Modality-Aware AVVP
+# Examining repercussions of Audio-Effects in Modality-Aware AVVP
 We add effects on audio which keeps audio still perceptible and analyse the effect on the Modality-Aware AVVP architecture
 
 We also remove cross-modal audio attention from visual modality to save the visual modality from noise added by HAN.
